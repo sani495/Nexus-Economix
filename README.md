@@ -31,3 +31,4 @@ Nexus is an advanced economy discord bot that offers unique features. He'll also
 
 Nexus was made for both fun and educational purposes. It doesn’t matter if it’s used to create an economic model of an imaginary kingdom in a fantasy tabletop game or if it’s used by an economics teacher to help explain the workings of our world economy; Nexus has uses for both fun and for education.
 
+j
