@@ -1,6 +1,4 @@
 # 📃 summary
-
-{% hint style="info" %}
 ## Note from Dev
 
 This website is being revamped into a new one. Please stand by! <3
